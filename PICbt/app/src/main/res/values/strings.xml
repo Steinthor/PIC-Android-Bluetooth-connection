@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PICbt</string>
+    <string name="text_bt">Bluetooth Status:</string>
+    <string name="text_bt_dis">Bluetooth Status: Disabled</string>
+    <string name="text_bt_en">Bluetooth Status: Enabled</string>
+    <string name="text_bt_no">Bluetooth Status: Not Available!</string>
+
+    <string name="text_bt_find_status">Starting Discovery..</string>
+    <string name="text_bt_find_status_started">Finding Devices..</string>
+    <string name="text_bt_find_status_stopped">Discovery Stopped.. Click to Retry</string>
+</resources>
